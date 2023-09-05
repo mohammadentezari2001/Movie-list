@@ -78,7 +78,7 @@
 
 .btn-delete{
   color: white;
-  background-color: rgb(208, 255, 0);
+  background-color: red;
   border: none;
   padding: 10px 20px;
   cursor: pointer;
@@ -87,5 +87,5 @@
 margin-top: 1.5rem;}
 
 .btn-delete:hover {
-  background-color: rgb(130, 139, 0);
+  background-color: darkred;
 }
